@@ -3,6 +3,6 @@ import react from '@vitejs/plugin-react';
 
 export default defineConfig({
   // Add this 'base' property
-  base: '/your-repo-name/',
+  base: 'Ritvizzzzzz.github.io',
   plugins: [react()],
 });
